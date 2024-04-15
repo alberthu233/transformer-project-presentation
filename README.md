@@ -22,7 +22,7 @@ A presentation on 2024 spring Transformer final project. Significant portion of 
 ## Methodology
 - **Understanding the task**
 
-Given the origianl text, and a rewrite prompt, the Gemma-7b-it LLM generates a rewritten text. The task is to recover the original prompt used to generate the rewritten text.
+Given the origianl text, and a rewrite prompt, the Gemma-7b-it LLM generates a rewritten text.
 
 
 <p align="center">
@@ -71,7 +71,7 @@ And once the predicted prompt is obtained, it can be used to construct a embeddi
 
 <p align="center">
   <img src="images/04.png"  width="650"><br>
-  <em>Figure: Text-to-Text Transformer(T5).</em>
+  <em>Figure: Text-to-Text Transfer Transformer(T5).</em>
 </p>
 
 - **Training**
